@@ -1,0 +1,142 @@
+ERROR   2021-06-26 00:06:59,300 [http-nio-8084-exec-2] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-26 00:07:03,043 [http-nio-8084-exec-9] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-26 00:08:57,804 [http-nio-8084-exec-10] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-26 00:08:57,952 [http-nio-8084-exec-3] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-26 00:10:46,105 [http-nio-8084-exec-1] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 00:10:52,501 [http-nio-8084-exec-5] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-26 00:10:55,686 [http-nio-8084-exec-8] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-26 00:12:25,271 [http-nio-8084-exec-14] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-26 00:12:55,296 [http-nio-8084-exec-15] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-26 00:16:32,473 [http-nio-8084-exec-23] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-26 00:18:33,262 [http-nio-8084-exec-29] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-26 03:51:57,471 [http-nio-8084-exec-13] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 03:52:08,870 [http-nio-8084-exec-15] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 03:53:31,701 [http-nio-8084-exec-19] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 03:56:24,921 [http-nio-8084-exec-15] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 03:56:30,642 [http-nio-8084-exec-16] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 03:57:15,387 [http-nio-8084-exec-14] duylp.controllers.SearchController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-26 04:02:35,746 [http-nio-8084-exec-36] duylp.controllers.SearchController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-26 04:03:22,156 [http-nio-8084-exec-35] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 04:06:17,838 [http-nio-8084-exec-41] duylp.controllers.SearchController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-26 12:46:36,952 [http-nio-8084-exec-217] duylp.controllers.UpdateCartController  - java.lang.NumberFormatException: For input string: "a"
+ERROR   2021-06-26 12:49:00,883 [http-nio-8084-exec-225] duylp.controllers.UpdateCartController  - java.lang.NumberFormatException: For input string: "a"
+ERROR   2021-06-26 13:04:25,683 [http-nio-8084-exec-287] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 13:04:48,370 [http-nio-8084-exec-279] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 13:19:42,537 [http-nio-8084-exec-345] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 13:27:01,190 [http-nio-8084-exec-338] duylp.controllers.RemoveCartController  - java.lang.NullPointerException
+ERROR   2021-06-26 13:27:06,221 [http-nio-8084-exec-341] duylp.controllers.RemoveCartController  - java.lang.NullPointerException
+ERROR   2021-06-26 13:35:15,318 [http-nio-8084-exec-347] duylp.controllers.UpdateCartController  - java.lang.NumberFormatException: For input string: "a"
+ERROR   2021-06-26 13:35:19,541 [http-nio-8084-exec-354] duylp.controllers.UpdateCartController  - java.lang.NumberFormatException: For input string: "a"
+ERROR   2021-06-26 13:39:07,115 [http-nio-8084-exec-359] duylp.controllers.UpdateCartController  - java.lang.NumberFormatException: For input string: "a"
+ERROR   2021-06-26 13:39:10,961 [http-nio-8084-exec-371] duylp.controllers.UpdateCartController  - java.lang.NumberFormatException: For input string: "a"
+ERROR   2021-06-26 13:39:55,660 [http-nio-8084-exec-376] duylp.controllers.UpdateCartController  - java.lang.NumberFormatException: For input string: "a"
+ERROR   2021-06-26 13:39:59,985 [http-nio-8084-exec-382] duylp.controllers.UpdateCartController  - java.lang.NumberFormatException: For input string: "a"
+ERROR   2021-06-26 13:40:03,722 [http-nio-8084-exec-383] duylp.controllers.UpdateCartController  - java.lang.NumberFormatException: For input string: "a"
+ERROR   2021-06-26 16:34:43,721 [http-nio-8084-exec-412] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 16:35:05,902 [http-nio-8084-exec-417] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 16:35:18,679 [http-nio-8084-exec-414] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 16:35:55,577 [http-nio-8084-exec-414] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 18:25:09,545 [http-nio-8084-exec-417] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 18:25:14,091 [http-nio-8084-exec-416] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 18:25:49,482 [http-nio-8084-exec-416] duylp.controllers.UpdateCartController  - java.lang.NumberFormatException: For input string: "a"
+ERROR   2021-06-26 18:25:54,027 [http-nio-8084-exec-410] duylp.controllers.UpdateCartController  - java.lang.NumberFormatException: For input string: "a"
+ERROR   2021-06-26 18:29:40,460 [http-nio-8084-exec-423] duylp.controllers.UpdateCartController  - java.lang.NumberFormatException: For input string: "-a"
+ERROR   2021-06-26 18:34:52,871 [http-nio-8084-exec-426] duylp.controllers.UpdateCartController  - java.lang.NumberFormatException: For input string: "a"
+ERROR   2021-06-26 18:34:56,508 [http-nio-8084-exec-433] duylp.controllers.UpdateCartController  - java.lang.NumberFormatException: For input string: "a"
+ERROR   2021-06-26 18:51:14,203 [http-nio-8084-exec-443] duylp.controllers.UpdateCartController  - java.lang.NullPointerException
+ERROR   2021-06-26 21:36:04,285 [http-nio-8084-exec-122] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 21:41:45,448 [http-nio-8084-exec-121] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 21:42:46,866 [http-nio-8084-exec-142] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-26 21:46:17,004 [http-nio-8084-exec-142] duylp.controllers.OrderController  - java.lang.NumberFormatException: For input string: ""
+ERROR   2021-06-26 21:46:27,987 [http-nio-8084-exec-148] duylp.controllers.OrderController  - java.lang.NumberFormatException: For input string: "DUYDEPTRAI"
+ERROR   2021-06-26 21:47:01,845 [http-nio-8084-exec-145] duylp.controllers.OrderController  - java.lang.NumberFormatException: For input string: "DUYDEPTRAI"
+ERROR   2021-06-27 00:02:13,798 [http-nio-8084-exec-51] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-27 00:02:17,078 [http-nio-8084-exec-52] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-27 00:02:23,135 [http-nio-8084-exec-58] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-27 00:02:27,019 [http-nio-8084-exec-54] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-27 00:02:35,988 [http-nio-8084-exec-57] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-27 00:02:41,882 [http-nio-8084-exec-51] duylp.controllers.LoginController  - java.lang.NullPointerException
+ERROR   2021-06-27 22:05:15,449 [http-nio-8084-exec-5] duylp.controllers.SearchController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-27 22:07:32,908 [http-nio-8084-exec-15] duylp.controllers.SearchController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-27 22:50:07,930 [http-nio-8084-exec-127] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 22:50:13,395 [http-nio-8084-exec-128] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 22:50:36,464 [http-nio-8084-exec-131] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 22:52:39,483 [http-nio-8084-exec-130] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 22:55:06,110 [http-nio-8084-exec-2] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 22:57:57,883 [http-nio-8084-exec-24] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 22:58:55,238 [http-nio-8084-exec-33] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 23:03:14,378 [http-nio-8084-exec-35] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 23:03:15,133 [http-nio-8084-exec-38] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 23:03:33,850 [http-nio-8084-exec-42] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 23:05:09,518 [http-nio-8084-exec-52] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 23:10:04,507 [http-nio-8084-exec-65] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 23:17:45,207 [http-nio-8084-exec-92] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 23:17:51,134 [http-nio-8084-exec-93] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 23:19:20,346 [http-nio-8084-exec-103] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 23:19:23,502 [http-nio-8084-exec-100] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 23:29:57,710 [http-nio-8084-exec-126] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-27 23:30:05,929 [http-nio-8084-exec-108] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-28 00:07:16,675 [http-nio-8084-exec-169] duylp.controllers.OrderController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-28 00:07:18,694 [http-nio-8084-exec-167] duylp.controllers.OrderController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-28 00:07:19,876 [http-nio-8084-exec-166] duylp.controllers.OrderController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-28 00:07:20,636 [http-nio-8084-exec-170] duylp.controllers.OrderController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-28 00:08:20,964 [http-nio-8084-exec-172] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-28 00:08:22,198 [http-nio-8084-exec-173] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-28 00:08:30,327 [http-nio-8084-exec-174] duylp.controllers.ApplyDiscountCodeController  - java.lang.NullPointerException
+ERROR   2021-06-28 00:08:48,581 [http-nio-8084-exec-175] duylp.controllers.OrderController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-28 00:11:14,934 [http-nio-8084-exec-177] duylp.controllers.OrderController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-28 00:11:59,569 [http-nio-8084-exec-183] duylp.controllers.OrderController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-28 00:16:58,699 [http-nio-8084-exec-193] duylp.daos.OrderDAO  - com.microsoft.sqlserver.jdbc.SQLServerException: Violation of PRIMARY KEY constraint 'PK__tblOrder__0809337D2BA1487D'. Cannot insert duplicate key in object 'dbo.tblOrders'. The duplicate key value is (9188).
+ERROR   2021-06-28 00:19:30,546 [http-nio-8084-exec-195] duylp.controllers.OrderController  - java.lang.NullPointerException
+ERROR   2021-06-28 00:19:32,065 [http-nio-8084-exec-200] duylp.controllers.OrderController  - java.lang.NullPointerException
+ERROR   2021-06-28 00:20:48,400 [http-nio-8084-exec-204] duylp.controllers.OrderController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-28 00:24:32,064 [http-nio-8084-exec-216] duylp.controllers.OrderController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-28 00:28:05,121 [http-nio-8084-exec-223] duylp.controllers.OrderController  - java.lang.NullPointerException
+ERROR   2021-06-28 00:28:52,526 [http-nio-8084-exec-220] duylp.controllers.OrderController  - java.lang.NullPointerException
+ERROR   2021-06-28 00:30:06,868 [http-nio-8084-exec-241] duylp.controllers.OrderController  - java.lang.NullPointerException
+ERROR   2021-06-28 00:31:32,575 [http-nio-8084-exec-236] duylp.controllers.OrderController  - java.lang.NullPointerException
+ERROR   2021-06-28 00:33:14,373 [http-nio-8084-exec-259] duylp.controllers.OrderController  - java.lang.NullPointerException
+ERROR   2021-06-28 00:35:29,752 [http-nio-8084-exec-270] duylp.controllers.OrderController  - java.lang.NullPointerException
+ERROR   2021-06-28 00:38:04,424 [http-nio-8084-exec-266] duylp.controllers.OrderController  - java.lang.NullPointerException
+ERROR   2021-06-28 00:40:30,202 [http-nio-8084-exec-297] duylp.controllers.UpdateCartController  - java.lang.NullPointerException
+ERROR   2021-06-28 01:04:50,147 [http-nio-8084-exec-367] duylp.controllers.ApplyDiscountCodeController  - java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+ERROR   2021-06-28 01:10:24,132 [http-nio-8084-exec-365] duylp.daos.OrderDAO  - com.microsoft.sqlserver.jdbc.SQLServerException: Violation of PRIMARY KEY constraint 'PK__tblOrder__0809337D2BA1487D'. Cannot insert duplicate key in object 'dbo.tblOrders'. The duplicate key value is (9118).
+ERROR   2021-06-28 01:13:20,126 [http-nio-8084-exec-394] duylp.daos.OrderDAO  - com.microsoft.sqlserver.jdbc.SQLServerException: Violation of PRIMARY KEY constraint 'PK__tblOrder__0809337D2BA1487D'. Cannot insert duplicate key in object 'dbo.tblOrders'. The duplicate key value is (8419).
+ERROR   2021-06-28 01:13:20,130 [http-nio-8084-exec-394] duylp.daos.OrderDAO  - com.microsoft.sqlserver.jdbc.SQLServerException: Violation of PRIMARY KEY constraint 'PK__tblOrder__0809337D2BA1487D'. Cannot insert duplicate key in object 'dbo.tblOrders'. The duplicate key value is (8419).
+ERROR   2021-06-28 01:15:26,287 [http-nio-8084-exec-400] duylp.controllers.RemoveCartController  - java.lang.NullPointerException
+ERROR   2021-06-28 01:15:33,132 [http-nio-8084-exec-395] duylp.controllers.RemoveCartController  - java.lang.NullPointerException
+ERROR   2021-06-28 01:57:37,191 [http-nio-8084-exec-469] duylp.daos.OrderDAO  - com.microsoft.sqlserver.jdbc.SQLServerException: Violation of PRIMARY KEY constraint 'PK__tblOrder__0809337D2BA1487D'. Cannot insert duplicate key in object 'dbo.tblOrders'. The duplicate key value is (1638).
+ERROR   2021-06-28 15:45:37,144 [http-nio-8084-exec-144] duylp.controllers.OrderController  - java.lang.NullPointerException
+ERROR   2021-06-28 15:46:34,987 [http-nio-8084-exec-149] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-28 15:46:57,999 [http-nio-8084-exec-150] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-28 15:47:14,462 [http-nio-8084-exec-151] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-28 15:49:31,894 [http-nio-8084-exec-150] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-06-28 15:53:43,807 [http-nio-8084-exec-166] duylp.daos.OrderDAO  - com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near '@P0'.
+ERROR   2021-06-28 15:57:59,945 [http-nio-8084-exec-182] duylp.daos.OrderDAO  - com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblOrdersDetails'.
+ERROR   2021-06-28 16:11:19,170 [http-nio-8084-exec-28] duylp.daos.OrderDAO  - java.lang.IllegalArgumentException: Timestamp format must be yyyy-mm-dd hh:mm:ss[.fffffffff]
+ERROR   2021-06-28 16:11:24,786 [http-nio-8084-exec-29] duylp.daos.OrderDAO  - java.lang.IllegalArgumentException: Timestamp format must be yyyy-mm-dd hh:mm:ss[.fffffffff]
+ERROR   2021-06-28 16:11:25,928 [http-nio-8084-exec-30] duylp.daos.OrderDAO  - java.lang.IllegalArgumentException: Timestamp format must be yyyy-mm-dd hh:mm:ss[.fffffffff]
+ERROR   2021-06-28 16:12:18,185 [http-nio-8084-exec-30] duylp.daos.OrderDAO  - java.lang.IllegalArgumentException: Timestamp format must be yyyy-mm-dd hh:mm:ss[.fffffffff]
+ERROR   2021-06-28 18:16:35,760 [http-nio-8084-exec-35] duylp.controllers.SearchController  - java.lang.NullPointerException
+ERROR   2021-06-28 18:16:38,084 [http-nio-8084-exec-42] duylp.controllers.SearchController  - java.lang.NullPointerException
+ERROR   2021-06-28 18:16:45,900 [http-nio-8084-exec-47] duylp.controllers.SearchController  - java.lang.NullPointerException
+ERROR   2021-06-28 18:23:00,639 [http-nio-8084-exec-66] duylp.controllers.SearchController  - java.lang.NullPointerException
+ERROR   2021-06-28 19:30:11,699 [http-nio-8084-exec-175] duylp.daos.BookDAO  - com.microsoft.sqlserver.jdbc.SQLServerException: The index 8 is out of range.
+ERROR   2021-06-28 19:30:19,507 [http-nio-8084-exec-166] duylp.daos.BookDAO  - com.microsoft.sqlserver.jdbc.SQLServerException: The index 8 is out of range.
+ERROR   2021-06-28 20:30:24,705 [http-nio-8084-exec-268] duylp.controllers.UpdateController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-28 20:30:30,223 [http-nio-8084-exec-258] duylp.controllers.UpdateController  - java.lang.NumberFormatException: empty String
+ERROR   2021-06-28 21:48:47,174 [http-nio-8084-exec-462] duylp.daos.DiscountDAO  - com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near '('.
+ERROR   2021-06-29 22:17:06,883 [http-nio-8084-exec-64] duylp.controllers.ExecutePaymentController  - java.lang.NullPointerException
+ERROR   2021-06-29 22:24:05,432 [http-nio-8084-exec-75] duylp.controllers.ExecutePaymentController  - java.lang.NullPointerException
+ERROR   2021-06-29 22:37:04,432 [http-nio-8084-exec-113] duylp.controllers.OrderController  - java.lang.ClassCastException: java.lang.Float cannot be cast to java.lang.String
+ERROR   2021-06-29 22:37:06,786 [http-nio-8084-exec-114] duylp.controllers.OrderController  - java.lang.ClassCastException: java.lang.Float cannot be cast to java.lang.String
+ERROR   2021-06-29 22:37:12,357 [http-nio-8084-exec-117] duylp.controllers.OrderController  - java.lang.ClassCastException: java.lang.Float cannot be cast to java.lang.String
+ERROR   2021-06-29 22:37:13,474 [http-nio-8084-exec-118] duylp.controllers.OrderController  - java.lang.ClassCastException: java.lang.Float cannot be cast to java.lang.String
+ERROR   2021-06-29 22:38:51,876 [http-nio-8084-exec-120] duylp.controllers.OrderController  - java.lang.ClassCastException: java.lang.Float cannot be cast to java.lang.String
+ERROR   2021-06-29 22:39:36,494 [http-nio-8084-exec-128] duylp.controllers.OrderController  - java.lang.NullPointerException
+ERROR   2021-06-29 22:40:33,538 [http-nio-8084-exec-140] duylp.controllers.OrderController  - java.lang.NullPointerException
+ERROR   2021-07-03 01:33:05,887 [http-nio-8084-exec-27] duylp.daos.OrderDAO  - com.microsoft.sqlserver.jdbc.SQLServerException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK__tblOrders__disco__35BCFE0A". The conflict occurred in database "LPD3", table "dbo.tblDiscounts", column 'discountCode'.
+ERROR   2021-07-03 01:35:20,939 [http-nio-8084-exec-6] duylp.daos.OrderDAO  - com.microsoft.sqlserver.jdbc.SQLServerException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK__tblOrders__disco__35BCFE0A". The conflict occurred in database "LPD3", table "dbo.tblDiscounts", column 'discountCode'.
+ERROR   2021-07-03 01:42:39,332 [http-nio-8084-exec-40] duylp.daos.OrderDAO  - com.microsoft.sqlserver.jdbc.SQLServerException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK__tblOrders__disco__35BCFE0A". The conflict occurred in database "LPD3", table "dbo.tblDiscounts", column 'discountCode'.
+ERROR   2021-07-06 22:29:12,387 [http-nio-8084-exec-99] duylp.controllers.MainController  - java.lang.NullPointerException
+ERROR   2021-07-06 22:29:19,527 [http-nio-8084-exec-92] duylp.controllers.MainController  - java.lang.NullPointerException

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/J3.L.P0002.BookStore">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="LPD3" password="12345678" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=LPD3" username="sa"/>
+</Context>

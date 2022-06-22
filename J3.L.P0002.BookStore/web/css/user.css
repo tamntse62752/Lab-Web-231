@@ -1,0 +1,278 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: 'Roboto', sans-serif;
+    color: #29303b;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.ude-btnWhite {
+    background-color: #fff;
+    border: 1px solid #686f7a;
+    border-radius: 2px;
+    padding: 11px 12px;
+    color: #686f7a;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.ude-btnWhite:hover {
+    background-color: #fff;
+    border-color: #29303b;
+    color: #29303b;
+}
+
+.ude-btnWhite:focus {
+    outline: none !important;
+}
+
+.ude-btnRed {
+    background-color: #ec5252;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    padding: 11px 12px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.ude-btnRed:hover {
+    background-color: #992337;
+    border-color: transparent;
+    color: #fff;
+}
+
+.ude-btnRed:focus {
+    outline: none !important;
+}
+
+.ude-btnHoverHeader {
+    background-color: #fff;
+    border: none;
+    border-radius: none;
+    outline: none;
+}
+
+.ude-btnHoverHeader:hover {
+    background-color: #F7F8FA;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+}
+
+.ude-btnHoverHeader:focus {
+    background-color: #F7F8FA;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+}
+
+.ude-btnHoverHeaderCircle {
+    background-color: #fff;
+    border: none;
+    border-radius: none;
+    outline: none;
+}
+
+.ude-btnHoverHeaderCircle:hover {
+    background-color: #F7F8FA;
+    border: none;
+    border-radius: 60%;
+    outline: none;
+}
+
+.ude-btnHoverHeaderCircle:focus {
+    outline: none;
+}
+
+.ude-HoverbgInputSearch {
+    background-color: #F7F8FA;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    border-top-right-radius: none;
+    border-bottom-right-radius: none;
+    transition: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.ude-HoverbgInputSearch:focus {
+    background-color: #fff;
+    border-top: 1px solid #ced4da;
+    border-right: none;
+    border-bottom: 1px solid #ced4da;
+    border-left: 1px solid #ced4da;
+    border-top-right-radius: none;
+    border-bottom-right-radius: none;
+    transition: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.ude-btnHoverbgSearch {
+    background-color: #F7F8FA;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    transition: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.ude-btnHoverbgSearch:hover {
+    background-color: #ec5252;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    transition: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.ude-btnHoverbgSearch:focus {
+    background-color: #ec5252;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    transition: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.ude-btnHoverbgSearch:hover .ude-btnHoverSearch {
+    background: transparent;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    color: #fff;
+}
+
+.ude-btnHoverbgSearch:focus .ude-btnHoverSearch {
+    background: transparent;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    color: #fff;
+}
+
+.ude-btnHoverSearch {
+    background: transparent;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    color: #ec5252;
+}
+
+
+
+header {
+    color: #505763;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.header__left {
+    display: flex;
+}
+
+.header__left .navbar-brand img {
+    width: 80px;
+}
+
+.header__left .header__categories {
+    margin: 0 15px;
+    align-self: center;
+}
+
+.header__left .header__categories .nav-link {
+    color: #505763;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.header__left .header__form {
+    flex-grow: 1;
+}
+
+.header__right .nav-link {
+    color: #505763;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.header__right .ude-btnGroup .ude-btnRed a:hover {
+    text-decoration: none;
+}
+
+footer {
+    background-color: #222222;
+}
+
+footer .footer__content {
+    margin: 0 auto;
+    width: 70%;
+}
+
+footer .footer__content .footer__rowSecond {
+    width: 100%;
+    margin: 0;
+}
+
+footer .footer__content .footer__rowSecond .footer__img {
+    padding: 0;
+}
+
+footer .footer__content .footer__rowSecond .footer__img .footer__logo img {
+    width: 80px;
+    height: auto;
+    border-radius: 5px;
+}
+
+footer .footer__content .footer__rowSecond .footer__hr__content {
+    font-size: 13px;
+}
+
+footer .footer__content .footer__rowSecond .footer__hr__content h6 {
+    color: #fff;
+    font-size: 13px;
+    margin: 0;
+    line-height: 1.8;
+}
+
+footer .footer__content .footer__rowSecond .footer__hr__content p {
+    color: #949494;
+    margin: 0;
+    line-height: 1.8;
+}
+
+footer .footer__content .footer__rowSecond .footer__hr__content p .footer__email {
+    color: #ff0000;
+    text-decoration: none;
+}
+
+footer .footer__content .footer__rowSecond .footer__img .footer__BoCo {
+    text-align: right;
+}
+
+footer .footer__content .footer__rowSecond .footer__img .footer__BoCo img {
+    width: 130px;
+}
